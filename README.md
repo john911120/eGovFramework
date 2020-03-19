@@ -6,4 +6,4 @@
 풀스택 개발자가 되고 싶다는 생각을 갖게 된 아주 귀중한 경험을 한 프로젝트입니다.
 
 
-<img src="https://user-images.githubusercontent.com/53751665/77045050-d9381980-6a03-11ea-94c1-29084a5a9ebe.jpg" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/53751665/77045050-d9381980-6a03-11ea-94c1-29084a5a9ebe.jpg" width="90%"></img>
